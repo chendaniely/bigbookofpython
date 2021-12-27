@@ -19,6 +19,15 @@ The goal of this book is to provide an Informatics-oriented introduction to prog
 <https://www.py4e.com/>
 
 
+## The Python Tutorial
+
+[Python Software Foundation](https://www.python.org/psf/)
+
+This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library.
+
+<https://docs.python.org/3/tutorial/>
+
+
 ## Think Python: How to Think Like a Computer Scientist
 
 [Allen Downey](https://www.allendowney.com/)
