@@ -91,11 +91,18 @@
     "text": "4.2 Python for Everybody\nCharles Severance (Dr. Chuck)\nThis web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python. The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a computer science approach and the Informatics approach taken in this book is a greater focus on using Python to solve data analysis problems common in the world of Informatics.\nhttps://www.py4e.com/"
   },
   {
+    "objectID": "programming.html#the-python-tutorial",
+    "href": "programming.html#the-python-tutorial",
+    "title": "4  Programming",
+    "section": "4.3 The Python Tutorial",
+    "text": "4.3 The Python Tutorial\nPython Software Foundation\nThis tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library.\nhttps://docs.python.org/3/tutorial/"
+  },
+  {
     "objectID": "programming.html#think-python-how-to-think-like-a-computer-scientist",
     "href": "programming.html#think-python-how-to-think-like-a-computer-scientist",
     "title": "4  Programming",
-    "section": "4.3 Think Python: How to Think Like a Computer Scientist",
-    "text": "4.3 Think Python: How to Think Like a Computer Scientist\nAllen Downey\nThink Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.\nhttps://greenteapress.com/thinkpython2/html/index.html"
+    "section": "4.4 Think Python: How to Think Like a Computer Scientist",
+    "text": "4.4 Think Python: How to Think Like a Computer Scientist\nAllen Downey\nThink Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.\nhttps://greenteapress.com/thinkpython2/html/index.html"
   },
   {
     "objectID": "web.html#django-for-everybody",
