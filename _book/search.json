@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Big Book of Python",
+    "section": "",
+    "text": "Preface\nThis project is heavily inspired by the Big Book of R. Here you will find a collection of (mostly free) Python learning resources.\nThis is a book created from markdown and executable code using Quarto. See Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "packaging.html#python-packages",
+    "href": "packaging.html#python-packages",
+    "title": "1  Packaging",
+    "section": "1.1 Python Packages",
+    "text": "1.1 Python Packages\nTomas Beuzen & Tiffany Timbers\nPython packages are a core element of the Python programming language and are how you create organized, reusable, and shareable code in Python. Python Packages is an open source book that describes modern and efficient workflows for creating Python packages.\nhttps://py-pkgs.org/"
+  },
+  {
+    "objectID": "data_science.html#elements-of-data-science",
+    "href": "data_science.html#elements-of-data-science",
+    "title": "2  Data Science",
+    "section": "2.1 Elements of Data Science",
+    "text": "2.1 Elements of Data Science\nAllen Downey\nAn introduction to data science designed for people with no programming experience, this book presents a small, powerful subset of Python that allows you to do real work in data science as quickly as possible. It includes Jupyter notebooks where you can read the text, run the code, and work on exercises to practice what you learn.\nhttps://allendowney.github.io/ElementsOfDataScience/README.html"
+  },
+  {
+    "objectID": "data_science.html#python-data-science-handbook",
+    "href": "data_science.html#python-data-science-handbook",
+    "title": "2  Data Science",
+    "section": "2.2 Python Data Science Handbook",
+    "text": "2.2 Python Data Science Handbook\nJake VanderPlas\nThe Python Data Science Handbook by Jake VanderPlas (O’Reilly Media, 2016). This is a comprehensive introduction to the most important data science tools in the Python world. Several examples used in the book are drawn from posts on this blog. The full text can be read online, and the content is also available as Jupyter notebooks on GitHub.\nhttps://jakevdp.github.io/PythonDataScienceHandbook/"
+  },
+  {
+    "objectID": "data_science.html#think-bayes-2e-bayesian-statistics-in-python",
+    "href": "data_science.html#think-bayes-2e-bayesian-statistics-in-python",
+    "title": "2  Data Science",
+    "section": "2.3 Think Bayes 2e: Bayesian Statistics in Python",
+    "text": "2.3 Think Bayes 2e: Bayesian Statistics in Python\nAllen Downey\nAn introduction to Bayesian statistics using simple Python programs instead of complicated math.\nhttps://allendowney.github.io/ThinkBayes2/"
+  },
+  {
+    "objectID": "data_science.html#think-stats-2e-exploratory-data-analysis",
+    "href": "data_science.html#think-stats-2e-exploratory-data-analysis",
+    "title": "2  Data Science",
+    "section": "2.4 Think Stats, 2e: Exploratory Data Analysis",
+    "text": "2.4 Think Stats, 2e: Exploratory Data Analysis\nAllen Downey\nAn introduction to exploratory data analysis. Like the first edition, this book emphasizes simple computational tools for exploring real data. It includes several new topics, including regression, time series analysis, and survival analysis. It presents basic use of NumPy, SciPy, Pandas, and StatsModels.\nhttps://allendowney.github.io/ThinkBayes2/"
+  },
+  {
+    "objectID": "domain_specific.html#astronomical-data-in-python",
+    "href": "domain_specific.html#astronomical-data-in-python",
+    "title": "3  Domain Specific",
+    "section": "3.1 Astronomical Data in Python",
+    "text": "3.1 Astronomical Data in Python\nAllen Downey\nAn introduction to tools and practices for working with astronomical data. Topics covered include SQL queries with complex joins, Astropy and Pandas, coordinates and other quantities with units, and visualizing data. This book includes Jupyter notebooks where you can read the text, run the code, and work on exercises to practice what you learn.\nhttps://allendowney.github.io/AstronomicalData/README.html"
+  },
+  {
+    "objectID": "domain_specific.html#data-science-for-the-biomedical-sciences",
+    "href": "domain_specific.html#data-science-for-the-biomedical-sciences",
+    "title": "3  Domain Specific",
+    "section": "3.2 Data Science for the Biomedical Sciences",
+    "text": "3.2 Data Science for the Biomedical Sciences\nDaniel Chen, Anne Brown\nWe hope this book provides a gentle introduction to data science. The main goal is to understand how to work with spreadsheet data and how data can be manipulated for multiple purposes. If nothing else, the book hopes to help you plan how to structure your own datasets for your own analysis. Even if you never go on to program on your own, understanding the way data can be manipulated and having a plan for your own dataset in the processing pipeline, will go a long ways when leaning and doing the analysis on your own, and/or working with collegues and collaborators on a project.\nhttps://ds4biomed.tech/"
+  },
+  {
+    "objectID": "domain_specific.html#modeling-and-simulation-in-python",
+    "href": "domain_specific.html#modeling-and-simulation-in-python",
+    "title": "3  Domain Specific",
+    "section": "3.3 Modeling and Simulation in Python",
+    "text": "3.3 Modeling and Simulation in Python\nAllen Downey\nModels of discrete systems, like population growth, first-order systems, like epidemics and thermal systems, and second-order systems, like mechanics. Designed for people who have not programmed before. This book includes Jupyter notebooks where you can read the text, run the code, and work on exercises to practice what you learned.\nhttps://allendowney.github.io/ModSimPy/"
+  },
+  {
+    "objectID": "domain_specific.html#think-complexity-2e-exploring-complexity-science-with-python",
+    "href": "domain_specific.html#think-complexity-2e-exploring-complexity-science-with-python",
+    "title": "3  Domain Specific",
+    "section": "3.4 Think Complexity 2e: Exploring Complexity Science with Python",
+    "text": "3.4 Think Complexity 2e: Exploring Complexity Science with Python\nAllen Downey\nAn introduction to complexity science, which includes small-world graphs, scale-free networks, cellular automata, fractals and pink noise, self-organized criticality, and agent-based models.\nhttps://greenteapress.com/complexity2/html/index.html"
+  },
+  {
+    "objectID": "domain_specific.html#think-dsp-digital-signal-processing-in-python",
+    "href": "domain_specific.html#think-dsp-digital-signal-processing-in-python",
+    "title": "3  Domain Specific",
+    "section": "3.5 Think DSP: Digital Signal Processing in Python",
+    "text": "3.5 Think DSP: Digital Signal Processing in Python\nAllen Downey\nAn introduction to digital signal processing with applications to sound and image processing.\nhttps://greenteapress.com/thinkdsp/html/index.html"
+  },
+  {
+    "objectID": "programming.html#data-structures-and-information-retrieval-in-python",
+    "href": "programming.html#data-structures-and-information-retrieval-in-python",
+    "title": "4  Programming",
+    "section": "4.1 Data Structures and Information Retrieval in Python",
+    "text": "4.1 Data Structures and Information Retrieval in Python\nAllen Downey\nData Structures and Information Retrieval in Python, is an introduction to data structures organized around a motivating example: building a search engine.\nhttps://allendowney.github.io/DSIRP/"
+  },
+  {
+    "objectID": "programming.html#python-for-everybody",
+    "href": "programming.html#python-for-everybody",
+    "title": "4  Programming",
+    "section": "4.2 Python for Everybody",
+    "text": "4.2 Python for Everybody\nCharles Severance (Dr. Chuck)\nThis web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python. The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a computer science approach and the Informatics approach taken in this book is a greater focus on using Python to solve data analysis problems common in the world of Informatics.\nhttps://www.py4e.com/"
+  },
+  {
+    "objectID": "programming.html#think-python-how-to-think-like-a-computer-scientist",
+    "href": "programming.html#think-python-how-to-think-like-a-computer-scientist",
+    "title": "4  Programming",
+    "section": "4.3 Think Python: How to Think Like a Computer Scientist",
+    "text": "4.3 Think Python: How to Think Like a Computer Scientist\nAllen Downey\nThink Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.\nhttps://greenteapress.com/thinkpython2/html/index.html"
+  },
+  {
+    "objectID": "web.html#django-for-everybody",
+    "href": "web.html#django-for-everybody",
+    "title": "5  Web",
+    "section": "5.1 Django for Everybody",
+    "text": "5.1 Django for Everybody\nThis web site is building a set of free materials, lectures, and assignments to help students learn the Django web development framework\nhttps://www.dj4e.com"
+  },
+  {
+    "objectID": "web.html#python-everywhere",
+    "href": "web.html#python-everywhere",
+    "title": "5  Web",
+    "section": "5.2 Python Everywhere",
+    "text": "5.2 Python Everywhere\nHost, run, and code Python in the cloud!\nGet started for free. Our basic plan gives you access to machines with a full Python environment already installed. You can develop and host your website or any other code directly from your browser without having to install software or manage your own server.\nNeed more power? Upgraded plans start at $5/month.\nhttps://www.pythonanywhere.com"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]

@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang=""><head>
+  <meta charset="utf-8">
+  <meta name="generator" content="quarto-0.2.399">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Big Book of Python - 2&nbsp; Data Science</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+  <script src="site_libs/quarto-nav/headroom.min.js"></script>
+  <script src="site_libs/clipboard/clipboard.min.js"></script>
+  <meta name="quarto:offset" content="./">
+  <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+  <script src="site_libs/quarto-search/fuse.min.js"></script>
+  <script src="site_libs/quarto-search/quarto-search.js"></script>
+  <link href="./domain_specific.html" rel="next">
+  <link href="./packaging.html" rel="prev">
+  <script src="site_libs/quarto-html/quarto.js"></script>
+  <script src="site_libs/quarto-html/popper.min.js"></script>
+  <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+  <script src="site_libs/quarto-html/anchor.min.js"></script>
+  <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+  <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+  <script src="site_libs/bootstrap/bootstrap.min.js"></script>
+  <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+  <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <script id="quarto-search-options" type="application/json">{
+    "location": "sidebar",
+    "copy-button": false,
+    "collapse-after": 2,
+    "panel-placement": "start",
+    "type": "textbox",
+    "limit": 20,
+    "language": {
+      "search-no-results-text": "No results",
+      "search-matching-documents-text": "matching documents",
+      "search-copy-link-title": "Copy link to search",
+      "search-hide-matches-text": "Hide additional matches",
+      "search-more-match-text": "more match in this document",
+      "search-more-matches-text": "more matches in this document",
+      "search-clear-button-title": "Clear",
+      "search-detached-cancel-button-title": "Cancel",
+      "search-submit-button-title": "Submit"
+    }
+  }</script>
+</head>
+<body class="floating">
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Data Science</span></h1>
+      <button type="button" class="quarto-btn-toggle btn">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+  <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Big Book of Python</a> 
+        <div class="sidebar-tools-main">
+</div>
+    </div>
+  </div>
+    <div class="mt-2 flex-shrink-0 align-items-center">
+      <div class="sidebar-search">
+      <div id="quarto-search" class="" title="Search"></div>
+      </div>
+    </div>
+  <div class="sidebar-menu-container"> 
+  <ul class="list-unstyled mt-1">
+      <li class="sidebar-item">
+  <a href="./index.html" class="">Preface</a>
+</li>
+      <li class="sidebar-item">
+  <a href="./packaging.html" class=""><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Packaging</span></a>
+</li>
+      <li class="sidebar-item">
+  <a href="./data_science.html" class="active"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Data Science</span></a>
+</li>
+      <li class="sidebar-item">
+  <a href="./domain_specific.html" class=""><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Domain Specific</span></a>
+</li>
+      <li class="sidebar-item">
+  <a href="./programming.html" class=""><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Programming</span></a>
+</li>
+      <li class="sidebar-item">
+  <a href="./web.html" class=""><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Web</span></a>
+</li>
+      <li class="sidebar-item">
+  <a href="./references.html" class="">References</a>
+</li>
+  </ul>
+  </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+      <nav id="TOC" role="doc-toc">
+<h2 id="toc-title">On this page</h2>
+<ul>
+<li><a href="#elements-of-data-science" class="nav-link active" data-scroll-target="#elements-of-data-science"> <span class="header-section-number">2.1</span> Elements of Data Science</a></li>
+<li><a href="#python-data-science-handbook" class="nav-link" data-scroll-target="#python-data-science-handbook"> <span class="header-section-number">2.2</span> Python Data Science Handbook</a></li>
+<li><a href="#think-bayes-2e-bayesian-statistics-in-python" class="nav-link" data-scroll-target="#think-bayes-2e-bayesian-statistics-in-python"> <span class="header-section-number">2.3</span> Think Bayes 2e: Bayesian Statistics in Python</a></li>
+<li><a href="#think-stats-2e-exploratory-data-analysis" class="nav-link" data-scroll-target="#think-stats-2e-exploratory-data-analysis"> <span class="header-section-number">2.4</span> Think Stats, 2e: Exploratory Data Analysis</a></li>
+</ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content">
+<header id="title-block-header">
+<h1 class="title d-none d-lg-block display-7"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Data Science</span></h1>
+</header>
+
+<section id="elements-of-data-science" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="elements-of-data-science"><span class="header-section-number">2.1</span> Elements of Data Science</h2>
+<p><a href="https://www.allendowney.com/">Allen Downey</a></p>
+<p>An introduction to data science designed for people with no programming experience, this book presents a small, powerful subset of Python that allows you to do real work in data science as quickly as possible. It includes Jupyter notebooks where you can read the text, run the code, and work on exercises to practice what you learn.</p>
+<p><a href="https://allendowney.github.io/ElementsOfDataScience/README.html" class="uri">https://allendowney.github.io/ElementsOfDataScience/README.html</a></p>
+</section>
+<section id="python-data-science-handbook" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="python-data-science-handbook"><span class="header-section-number">2.2</span> Python Data Science Handbook</h2>
+<p><a href="http://vanderplas.com/">Jake VanderPlas</a></p>
+<p>The Python Data Science Handbook by Jake VanderPlas (O’Reilly Media, 2016). This is a comprehensive introduction to the most important data science tools in the Python world. Several examples used in the book are drawn from posts on this blog. The full text can be <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">read online</a>, and the content is also available as Jupyter notebooks <a href="http://github.com/jakevdp/PythonDataScienceHandbook">on GitHub</a>.</p>
+<p><a href="https://jakevdp.github.io/PythonDataScienceHandbook/" class="uri">https://jakevdp.github.io/PythonDataScienceHandbook/</a></p>
+</section>
+<section id="think-bayes-2e-bayesian-statistics-in-python" class="level2" data-number="2.3">
+<h2 data-number="2.3" class="anchored" data-anchor-id="think-bayes-2e-bayesian-statistics-in-python"><span class="header-section-number">2.3</span> Think Bayes 2e: Bayesian Statistics in Python</h2>
+<p><a href="https://www.allendowney.com/">Allen Downey</a></p>
+<p>An introduction to Bayesian statistics using simple Python programs instead of complicated math.</p>
+<p><a href="https://allendowney.github.io/ThinkBayes2/" class="uri">https://allendowney.github.io/ThinkBayes2/</a></p>
+</section>
+<section id="think-stats-2e-exploratory-data-analysis" class="level2" data-number="2.4">
+<h2 data-number="2.4" class="anchored" data-anchor-id="think-stats-2e-exploratory-data-analysis"><span class="header-section-number">2.4</span> Think Stats, 2e: Exploratory Data Analysis</h2>
+<p><a href="https://www.allendowney.com/">Allen Downey</a></p>
+<p>An introduction to exploratory data analysis. Like the first edition, this book emphasizes simple computational tools for exploring real data. It includes several new topics, including regression, time series analysis, and survival analysis. It presents basic use of NumPy, SciPy, Pandas, and StatsModels.</p>
+<p><a href="https://allendowney.github.io/ThinkBayes2/" class="uri">https://allendowney.github.io/ThinkBayes2/</a></p>
+
+
+</section>
+</main> <!-- /main -->
+<script type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    setTimeout(function() {
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./packaging.html">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Packaging</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./domain_specific.html">
+        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Domain Specific</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+</body></html>

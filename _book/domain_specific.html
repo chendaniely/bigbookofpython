@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang=""><head>
+  <meta charset="utf-8">
+  <meta name="generator" content="quarto-0.2.399">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>Big Book of Python - 3&nbsp; Domain Specific</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+  <script src="site_libs/quarto-nav/headroom.min.js"></script>
+  <script src="site_libs/clipboard/clipboard.min.js"></script>
+  <meta name="quarto:offset" content="./">
+  <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+  <script src="site_libs/quarto-search/fuse.min.js"></script>
+  <script src="site_libs/quarto-search/quarto-search.js"></script>
+  <link href="./programming.html" rel="next">
+  <link href="./data_science.html" rel="prev">
+  <script src="site_libs/quarto-html/quarto.js"></script>
+  <script src="site_libs/quarto-html/popper.min.js"></script>
+  <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+  <script src="site_libs/quarto-html/anchor.min.js"></script>
+  <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+  <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+  <script src="site_libs/bootstrap/bootstrap.min.js"></script>
+  <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+  <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <script id="quarto-search-options" type="application/json">{
+    "location": "sidebar",
+    "copy-button": false,
+    "collapse-after": 2,
+    "panel-placement": "start",
+    "type": "textbox",
+    "limit": 20,
+    "language": {
+      "search-no-results-text": "No results",
+      "search-matching-documents-text": "matching documents",
+      "search-copy-link-title": "Copy link to search",
+      "search-hide-matches-text": "Hide additional matches",
+      "search-more-match-text": "more match in this document",
+      "search-more-matches-text": "more matches in this document",
+      "search-clear-button-title": "Clear",
+      "search-detached-cancel-button-title": "Cancel",
+      "search-submit-button-title": "Submit"
+    }
+  }</script>
+</head>
+<body class="floating">
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Domain Specific</span></h1>
+      <button type="button" class="quarto-btn-toggle btn">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+  <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Big Book of Python</a> 
+        <div class="sidebar-tools-main">
+</div>
+    </div>
+  </div>
+    <div class="mt-2 flex-shrink-0 align-items-center">
+      <div class="sidebar-search">
+      <div id="quarto-search" class="" title="Search"></div>
+      </div>
+    </div>
+  <div class="sidebar-menu-container"> 
+  <ul class="list-unstyled mt-1">
+      <li class="sidebar-item">
+  <a href="./index.html" class="">Preface</a>
+</li>
+      <li class="sidebar-item">
+  <a href="./packaging.html" class=""><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Packaging</span></a>
+</li>
+      <li class="sidebar-item">
+  <a href="./data_science.html" class=""><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Data Science</span></a>
+</li>
+      <li class="sidebar-item">
+  <a href="./domain_specific.html" class="active"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Domain Specific</span></a>
+</li>
+      <li class="sidebar-item">
+  <a href="./programming.html" class=""><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Programming</span></a>
+</li>
+      <li class="sidebar-item">
+  <a href="./web.html" class=""><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Web</span></a>
+</li>
+      <li class="sidebar-item">
+  <a href="./references.html" class="">References</a>
+</li>
+  </ul>
+  </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+      <nav id="TOC" role="doc-toc">
+<h2 id="toc-title">On this page</h2>
+<ul>
+<li><a href="#astronomical-data-in-python" class="nav-link active" data-scroll-target="#astronomical-data-in-python"> <span class="header-section-number">3.1</span> Astronomical Data in Python</a></li>
+<li><a href="#data-science-for-the-biomedical-sciences" class="nav-link" data-scroll-target="#data-science-for-the-biomedical-sciences"> <span class="header-section-number">3.2</span> Data Science for the Biomedical Sciences</a></li>
+<li><a href="#modeling-and-simulation-in-python" class="nav-link" data-scroll-target="#modeling-and-simulation-in-python"> <span class="header-section-number">3.3</span> Modeling and Simulation in Python</a></li>
+<li><a href="#think-complexity-2e-exploring-complexity-science-with-python" class="nav-link" data-scroll-target="#think-complexity-2e-exploring-complexity-science-with-python"> <span class="header-section-number">3.4</span> Think Complexity 2e: Exploring Complexity Science with Python</a></li>
+<li><a href="#think-dsp-digital-signal-processing-in-python" class="nav-link" data-scroll-target="#think-dsp-digital-signal-processing-in-python"> <span class="header-section-number">3.5</span> Think DSP: Digital Signal Processing in Python</a></li>
+</ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content">
+<header id="title-block-header">
+<h1 class="title d-none d-lg-block display-7"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Domain Specific</span></h1>
+</header>
+
+<section id="astronomical-data-in-python" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="astronomical-data-in-python"><span class="header-section-number">3.1</span> Astronomical Data in Python</h2>
+<p><a href="https://www.allendowney.com/">Allen Downey</a></p>
+<p>An introduction to tools and practices for working with astronomical data. Topics covered include SQL queries with complex joins, Astropy and Pandas, coordinates and other quantities with units, and visualizing data. This book includes Jupyter notebooks where you can read the text, run the code, and work on exercises to practice what you learn.</p>
+<p><a href="https://allendowney.github.io/AstronomicalData/README.html" class="uri">https://allendowney.github.io/AstronomicalData/README.html</a></p>
+</section>
+<section id="data-science-for-the-biomedical-sciences" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="data-science-for-the-biomedical-sciences"><span class="header-section-number">3.2</span> Data Science for the Biomedical Sciences</h2>
+<p><a href="https://daniel.rbind.io/">Daniel Chen</a>, <a href="https://bevanbrownlab.com/">Anne Brown</a></p>
+<p>We hope this book provides a gentle introduction to data science. The main goal is to understand how to work with spreadsheet data and how data can be manipulated for multiple purposes. If nothing else, the book hopes to help you plan how to structure your own datasets for your own analysis. Even if you never go on to program on your own, understanding the way data can be manipulated and having a plan for your own dataset in the processing pipeline, will go a long ways when leaning and doing the analysis on your own, and/or working with collegues and collaborators on a project.</p>
+<p><a href="https://ds4biomed.tech/" class="uri">https://ds4biomed.tech/</a></p>
+</section>
+<section id="modeling-and-simulation-in-python" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="modeling-and-simulation-in-python"><span class="header-section-number">3.3</span> Modeling and Simulation in Python</h2>
+<p><a href="https://www.allendowney.com/">Allen Downey</a></p>
+<p>Models of discrete systems, like population growth, first-order systems, like epidemics and thermal systems, and second-order systems, like mechanics. Designed for people who have not programmed before. This book includes Jupyter notebooks where you can read the text, run the code, and work on exercises to practice what you learned.</p>
+<p><a href="https://allendowney.github.io/ModSimPy/" class="uri">https://allendowney.github.io/ModSimPy/</a></p>
+</section>
+<section id="think-complexity-2e-exploring-complexity-science-with-python" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="think-complexity-2e-exploring-complexity-science-with-python"><span class="header-section-number">3.4</span> Think Complexity 2e: Exploring Complexity Science with Python</h2>
+<p><a href="https://www.allendowney.com/">Allen Downey</a></p>
+<p>An introduction to complexity science, which includes small-world graphs, scale-free networks, cellular automata, fractals and pink noise, self-organized criticality, and agent-based models.</p>
+<p><a href="https://greenteapress.com/complexity2/html/index.html" class="uri">https://greenteapress.com/complexity2/html/index.html</a></p>
+</section>
+<section id="think-dsp-digital-signal-processing-in-python" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="think-dsp-digital-signal-processing-in-python"><span class="header-section-number">3.5</span> Think DSP: Digital Signal Processing in Python</h2>
+<p><a href="https://www.allendowney.com/">Allen Downey</a></p>
+<p>An introduction to digital signal processing with applications to sound and image processing.</p>
+<p><a href="https://greenteapress.com/thinkdsp/html/index.html" class="uri">https://greenteapress.com/thinkdsp/html/index.html</a></p>
+
+
+</section>
+</main> <!-- /main -->
+<script type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    setTimeout(function() {
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./data_science.html">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Data Science</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./programming.html">
+        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Programming</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+</body></html>
