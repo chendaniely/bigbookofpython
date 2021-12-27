@@ -1,0 +1,28 @@
+# Programming
+
+## Data Structures and Information Retrieval in Python
+
+[Allen Downey](https://www.allendowney.com/)
+
+Data Structures and Information Retrieval in Python, is an introduction to data structures organized around a motivating example: building a search engine.
+
+<https://allendowney.github.io/DSIRP/>
+
+
+## Python for Everybody
+
+[Charles Severance (Dr. Chuck)](https://www.dr-chuck.com/)
+
+This web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python.
+The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a computer science approach and the Informatics approach taken in this book is a greater focus on using Python to solve data analysis problems common in the world of Informatics. 
+
+<https://www.py4e.com/>
+
+
+## Think Python: How to Think Like a Computer Scientist
+
+[Allen Downey](https://www.allendowney.com/)
+
+Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.
+
+<https://greenteapress.com/thinkpython2/html/index.html>

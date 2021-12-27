@@ -1,0 +1,39 @@
+# Data Science
+
+## Elements of Data Science
+
+[Allen Downey](https://www.allendowney.com/)
+
+An introduction to data science designed for people with no programming experience, this book presents a small, powerful subset of Python that allows you to do real work in data science as quickly as possible.  It includes Jupyter notebooks where you can read the text, run the code, and work on exercises to practice what you learn.
+
+<https://allendowney.github.io/ElementsOfDataScience/README.html>
+
+
+## Python Data Science Handbook
+
+[Jake VanderPlas](http://vanderplas.com/)
+
+The Python Data Science Handbook by Jake VanderPlas (O'Reilly Media, 2016). This is a comprehensive introduction to the most important data science tools in the Python world. Several examples used in the book are drawn from posts on this blog. The full text can be
+[read online](https://jakevdp.github.io/PythonDataScienceHandbook/),
+and the content is also available as Jupyter notebooks
+[on GitHub](http://github.com/jakevdp/PythonDataScienceHandbook).
+
+<https://jakevdp.github.io/PythonDataScienceHandbook/>
+
+
+## Think Bayes 2e: Bayesian Statistics in Python
+
+[Allen Downey](https://www.allendowney.com/)
+
+An introduction to Bayesian statistics using simple Python programs instead of complicated math.
+
+<https://allendowney.github.io/ThinkBayes2/>
+
+
+## Think Stats, 2e: Exploratory Data Analysis
+
+[Allen Downey](https://www.allendowney.com/)
+
+An introduction to exploratory data analysis. Like the first edition, this book emphasizes simple computational tools for exploring real data. It includes several new topics, including regression, time series analysis, and survival analysis. It presents basic use of NumPy, SciPy, Pandas, and StatsModels.
+
+<https://allendowney.github.io/ThinkBayes2/>

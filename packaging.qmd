@@ -1,0 +1,9 @@
+# Packaging
+
+## Python Packages
+
+[Tomas Beuzen](https://www.tomasbeuzen.com/) & [Tiffany Timbers](https://www.tiffanytimbers.com/)
+
+Python packages are a core element of the Python programming language and are how you create organized, reusable, and shareable code in Python. *Python Packages* is an open source book that describes modern and efficient workflows for creating Python packages.
+
+<https://py-pkgs.org/>

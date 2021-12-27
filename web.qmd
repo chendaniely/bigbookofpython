@@ -1,0 +1,19 @@
+# Web
+
+## Django for Everybody
+
+This web site is building a set of free materials, lectures, and assignments to help students learn the Django web development framework
+
+<https://www.dj4e.com>
+
+
+## Python Everywhere
+
+
+Host, run, and code Python in the cloud!
+
+Get started for free. Our basic plan gives you access to machines with a full Python environment already installed. You can develop and host your website or any other code directly from your browser without having to install software or manage your own server.
+
+Need more power? Upgraded plans start at $5/month. 
+
+<https://www.pythonanywhere.com>

@@ -1,0 +1,46 @@
+# Domain Specific
+
+## Astronomical Data in Python
+
+[Allen Downey](https://www.allendowney.com/)
+
+An introduction to tools and practices for working with astronomical data. Topics covered include SQL queries with complex joins, Astropy and Pandas, coordinates and other quantities with units, and visualizing data.  This book includes Jupyter notebooks where you can read the text, run the code, and work on exercises to practice what you learn.
+
+<https://allendowney.github.io/AstronomicalData/README.html>
+
+
+## Data Science for the Biomedical Sciences
+
+[Daniel Chen](https://daniel.rbind.io/), [Anne Brown](https://bevanbrownlab.com/)
+
+We hope this book provides a gentle introduction to data science. The main goal is to understand how to work with spreadsheet data and how data can be manipulated for multiple purposes. If nothing else, the book hopes to help you plan how to structure your own datasets for your own analysis. Even if you never go on to program on your own, understanding the way data can be manipulated and having a plan for your own dataset in the processing pipeline, will go a long ways when leaning and doing the analysis on your own, and/or working with collegues and collaborators on a project.
+
+<https://ds4biomed.tech/>
+
+
+## Modeling and Simulation in Python
+
+[Allen Downey](https://www.allendowney.com/)
+
+Models of discrete systems, like population growth, first-order systems, like epidemics and thermal systems, and second-order systems, like mechanics. Designed for people who have not programmed before.  This book includes Jupyter notebooks where you can read the text, run the code, and work on exercises to practice what you learned.
+
+<https://allendowney.github.io/ModSimPy/>
+
+
+## Think Complexity 2e: Exploring Complexity Science with Python
+
+[Allen Downey](https://www.allendowney.com/)
+
+An introduction to complexity science, which includes small-world graphs, scale-free networks, cellular automata, fractals and pink noise, self-organized criticality, and agent-based models.
+
+<https://greenteapress.com/complexity2/html/index.html>
+
+
+## Think DSP: Digital Signal Processing in Python
+
+[Allen Downey](https://www.allendowney.com/)
+
+An introduction to digital signal processing with applications to sound and image processing.
+
+<https://greenteapress.com/thinkdsp/html/index.html>
+

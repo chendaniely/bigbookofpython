@@ -2,13 +2,16 @@ project:
   type: book
 
 book:
-  title: "."
-  author: "Jane Doe"
-  date: "12/27/2021"
+  title: "Big Book of Python"
+  author: "The Community"
+  date: "2021-12-27"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - packaging.qmd
+    - data_science.qmd
+    - domain_specific.qmd
+    - programming.qmd
+    - web.qmd
     - references.qmd
 
 bibliography: references.bib
