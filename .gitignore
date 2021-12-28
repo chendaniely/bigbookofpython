@@ -1,4 +1,4 @@
-.pdf
+_book/*.pdf
 
 /.quarto/
 .Rproj.user
