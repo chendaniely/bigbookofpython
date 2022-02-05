@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta name="generator" content="quarto-0.3.93">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Big Book of Python - 2&nbsp; Data Science</title>
+  <title>Big Book of Python - 3&nbsp; Data Science</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -61,7 +61,7 @@
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Data Science</span></h1>
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Data Science</span></h1>
       <button type="button" class="quarto-btn-toggle btn">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -94,27 +94,32 @@
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./packaging.html" class="sidebar-item-text "><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Packaging</span></a>
+  <a href="./install.html" class="sidebar-item-text "><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Installing Python</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./data_science.html" class="sidebar-item-text active"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Data Science</span></a>
+  <a href="./packaging.html" class="sidebar-item-text "><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Packaging</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./domain_specific.html" class="sidebar-item-text "><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Domain Specific</span></a>
+  <a href="./data_science.html" class="sidebar-item-text active"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Data Science</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./programming.html" class="sidebar-item-text "><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Programming</span></a>
+  <a href="./domain_specific.html" class="sidebar-item-text "><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Domain Specific</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./web.html" class="sidebar-item-text "><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Web</span></a>
+  <a href="./programming.html" class="sidebar-item-text "><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Programming</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./web.html" class="sidebar-item-text "><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Web</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -130,39 +135,39 @@
         <nav id="TOC" role="doc-toc">
 <h2 id="toc-title">Table of contents</h2>
 <ul>
-<li><a href="#elements-of-data-science" class="nav-link active" data-scroll-target="#elements-of-data-science"> <span class="header-section-number">2.1</span> Elements of Data Science</a></li>
-<li><a href="#python-data-science-handbook" class="nav-link" data-scroll-target="#python-data-science-handbook"> <span class="header-section-number">2.2</span> Python Data Science Handbook</a></li>
-<li><a href="#think-bayes-2e-bayesian-statistics-in-python" class="nav-link" data-scroll-target="#think-bayes-2e-bayesian-statistics-in-python"> <span class="header-section-number">2.3</span> Think Bayes 2e: Bayesian Statistics in Python</a></li>
-<li><a href="#think-stats-2e-exploratory-data-analysis" class="nav-link" data-scroll-target="#think-stats-2e-exploratory-data-analysis"> <span class="header-section-number">2.4</span> Think Stats, 2e: Exploratory Data Analysis</a></li>
+<li><a href="#elements-of-data-science" class="nav-link active" data-scroll-target="#elements-of-data-science"> <span class="header-section-number">3.1</span> Elements of Data Science</a></li>
+<li><a href="#python-data-science-handbook" class="nav-link" data-scroll-target="#python-data-science-handbook"> <span class="header-section-number">3.2</span> Python Data Science Handbook</a></li>
+<li><a href="#think-bayes-2e-bayesian-statistics-in-python" class="nav-link" data-scroll-target="#think-bayes-2e-bayesian-statistics-in-python"> <span class="header-section-number">3.3</span> Think Bayes 2e: Bayesian Statistics in Python</a></li>
+<li><a href="#think-stats-2e-exploratory-data-analysis" class="nav-link" data-scroll-target="#think-stats-2e-exploratory-data-analysis"> <span class="header-section-number">3.4</span> Think Stats, 2e: Exploratory Data Analysis</a></li>
 </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content">
 <header id="title-block-header">
-<h1 class="title d-none d-lg-block display-7"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Data Science</span></h1>
+<h1 class="title d-none d-lg-block display-7"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Data Science</span></h1>
 </header>
 
-<section id="elements-of-data-science" class="level2" data-number="2.1">
-<h2 data-number="2.1" class="anchored" data-anchor-id="elements-of-data-science"><span class="header-section-number">2.1</span> Elements of Data Science</h2>
+<section id="elements-of-data-science" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="elements-of-data-science"><span class="header-section-number">3.1</span> Elements of Data Science</h2>
 <p><a href="https://www.allendowney.com/">Allen Downey</a></p>
 <p>An introduction to data science designed for people with no programming experience, this book presents a small, powerful subset of Python that allows you to do real work in data science as quickly as possible. It includes Jupyter notebooks where you can read the text, run the code, and work on exercises to practice what you learn.</p>
 <p><a href="https://allendowney.github.io/ElementsOfDataScience/README.html" class="uri">https://allendowney.github.io/ElementsOfDataScience/README.html</a></p>
 </section>
-<section id="python-data-science-handbook" class="level2" data-number="2.2">
-<h2 data-number="2.2" class="anchored" data-anchor-id="python-data-science-handbook"><span class="header-section-number">2.2</span> Python Data Science Handbook</h2>
+<section id="python-data-science-handbook" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="python-data-science-handbook"><span class="header-section-number">3.2</span> Python Data Science Handbook</h2>
 <p><a href="http://vanderplas.com/">Jake VanderPlas</a></p>
 <p>The Python Data Science Handbook by Jake VanderPlas (O’Reilly Media, 2016). This is a comprehensive introduction to the most important data science tools in the Python world. Several examples used in the book are drawn from posts on this blog. The full text can be <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">read online</a>, and the content is also available as Jupyter notebooks <a href="http://github.com/jakevdp/PythonDataScienceHandbook">on GitHub</a>.</p>
 <p><a href="https://jakevdp.github.io/PythonDataScienceHandbook/" class="uri">https://jakevdp.github.io/PythonDataScienceHandbook/</a></p>
 </section>
-<section id="think-bayes-2e-bayesian-statistics-in-python" class="level2" data-number="2.3">
-<h2 data-number="2.3" class="anchored" data-anchor-id="think-bayes-2e-bayesian-statistics-in-python"><span class="header-section-number">2.3</span> Think Bayes 2e: Bayesian Statistics in Python</h2>
+<section id="think-bayes-2e-bayesian-statistics-in-python" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="think-bayes-2e-bayesian-statistics-in-python"><span class="header-section-number">3.3</span> Think Bayes 2e: Bayesian Statistics in Python</h2>
 <p><a href="https://www.allendowney.com/">Allen Downey</a></p>
 <p>An introduction to Bayesian statistics using simple Python programs instead of complicated math.</p>
 <p><a href="https://allendowney.github.io/ThinkBayes2/" class="uri">https://allendowney.github.io/ThinkBayes2/</a></p>
 </section>
-<section id="think-stats-2e-exploratory-data-analysis" class="level2" data-number="2.4">
-<h2 data-number="2.4" class="anchored" data-anchor-id="think-stats-2e-exploratory-data-analysis"><span class="header-section-number">2.4</span> Think Stats, 2e: Exploratory Data Analysis</h2>
+<section id="think-stats-2e-exploratory-data-analysis" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="think-stats-2e-exploratory-data-analysis"><span class="header-section-number">3.4</span> Think Stats, 2e: Exploratory Data Analysis</h2>
 <p><a href="https://www.allendowney.com/">Allen Downey</a></p>
 <p>An introduction to exploratory data analysis. Like the first edition, this book emphasizes simple computational tools for exploring real data. It includes several new topics, including regression, time series analysis, and survival analysis. It presents basic use of NumPy, SciPy, Pandas, and StatsModels.</p>
 <p><a href="https://allendowney.github.io/ThinkBayes2/" class="uri">https://allendowney.github.io/ThinkBayes2/</a></p>
@@ -346,12 +351,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./packaging.html">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Packaging</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Packaging</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
       <a href="./domain_specific.html">
-        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Domain Specific</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Domain Specific</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
