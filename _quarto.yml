@@ -4,7 +4,7 @@ project:
 book:
   title: "Big Book of Python"
   author: "The Community"
-  date: "2021-12-27"
+  date: "2022-02-04"
   chapters:
     - index.qmd
     - install.qmd
