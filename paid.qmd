@@ -1,0 +1,54 @@
+# Paid Resources
+
+## PyBites
+
+<https://pybit.es/>
+
+## Python Morsels
+
+(Trey Hunner)[https://treyhunner.com/]
+
+Python Morsels will help you maintain a Python learning habit. With weekly mini screencasts you'll re-discover Python topics you thought you already knew.
+
+Each screencast also includes a short article explaining the same material through text, so you can switch between reading articles and watching videos as you see fit.
+
+ Why pay for this when there's a lot of great free Python videos on YouTube? There's really one reason: you're trading money for time.
+
+I guarantee Python Morsels will include:
+
+- No ads: you're not the product, the screencasts are
+- No filler content: no ad revenue means no need for long videos
+- My own expertise: I'll teach you what I know (but not what I don't)
+
+- Lite: USD$100/year
+- All Access: USD $200/year
+
+<https://www.pythonmorsels.com/>
+
+## Real Python: Python Tutorials
+
+[Real Python](https://realpython.com/)
+
+Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.
+
+- US$19.99 / Month
+- US$16.67 / Month
+    - US$199.99 billed yearly
+
+<https://realpython.com/>
+
+## Talk Python Training
+
+[Michael Kennedy](https://blog.michaelckennedy.net/)
+
+Learn online.
+Learn on-demand through high quality training videos. Our videos and additional resources are available 24/7 so you can learn what you need exactly when you need it.
+
+Lifetime access.
+With our pay once, own it forever business model, you can rest assured that the courses you put time into become permanent resources for your career.
+
+- Cost Varied
+- Everything Bundle
+    - 221 total hours, $199 USD (own them all forever) 
+
+<https://training.talkpython.fm/courses/all>

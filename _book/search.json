@@ -161,6 +161,76 @@
     "text": "6.2 Python Everywhere\nHost, run, and code Python in the cloud!\nGet started for free. Our basic plan gives you access to machines with a full Python environment already installed. You can develop and host your website or any other code directly from your browser without having to install software or manage your own server.\nNeed more power? Upgraded plans start at $5/month.\nhttps://www.pythonanywhere.com"
   },
   {
+    "objectID": "podcasts.html#pybites-podcast",
+    "href": "podcasts.html#pybites-podcast",
+    "title": "7  Podcasts",
+    "section": "7.1 PyBites Podcast",
+    "text": "7.1 PyBites Podcast\nJulian Sequeira & Bob Belderbos\nThe PyBites Podcast is a podcast about Python Development, Career and Mindset skills. Hosted by the Co-Founders of PyBites, Bob Belderbos and Julian Sequeira, this podcast is for anyone interested in Python and looking for tips, tricks and concepts related to Career and Mindset. For more information on PyBites and Python, visit us at https://pybit.es and hit us up on social media!\nhttps://www.pybitespodcast.com/"
+  },
+  {
+    "objectID": "podcasts.html#python-bytes",
+    "href": "podcasts.html#python-bytes",
+    "title": "7  Podcasts",
+    "section": "7.2 Python Bytes",
+    "text": "7.2 Python Bytes\nMichael Kennedy & Brian Okken\nPython Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. Python Bytes podcast delivers headlines directly to your earbuds. If you want to stay up on the Python developer news but don’t have time to scour reddit, twitter, and other news sources, just subscribe and you’ll get the best picks delivered weekly.\nhttps://pythonbytes.fm/"
+  },
+  {
+    "objectID": "podcasts.html#test-code-in-python",
+    "href": "podcasts.html#test-code-in-python",
+    "title": "7  Podcasts",
+    "section": "7.3 Test & Code in Python",
+    "text": "7.3 Test & Code in Python\nBrian Okken\nTopics include automated testing, testing strategy, software engineering practices, packaging, Python, pytest, data science, TDD, continuous integration, and software methodologies. Also anything I think helps make the daily life of a software developer more fun and rewarding."
+  },
+  {
+    "objectID": "podcasts.html#talk-python-to-me",
+    "href": "podcasts.html#talk-python-to-me",
+    "title": "7  Podcasts",
+    "section": "7.4 Talk Python to Me",
+    "text": "7.4 Talk Python to Me\nMichael Kennedy\nA podcast on Python and related technologies\nhttps://talkpython.fm/"
+  },
+  {
+    "objectID": "podcasts.html#teaching-python",
+    "href": "podcasts.html#teaching-python",
+    "title": "7  Podcasts",
+    "section": "7.5 Teaching Python",
+    "text": "7.5 Teaching Python\nKelly Paredes & Sean Tibor\nA podcast by Kelly Paredes and Sean Tibor about their adventures teaching middle school computer science, problem-solving, handling failure, frustration, and victory through the lens of the Python programming language.\nKelly Paredes has taught all over the world and specializes in curriculum design and development. She currently teaches sixth and seventh-grade computer science at Pine Crest School in Fort Lauderdale, Florida. This is her fourth year using Python.\nSean Tibor has worked in marketing and technical management roles selling toothpaste and toothbrushes, designing chemical inventory and tv media databases, enrolling online nursing students, and founding a digital marketing agency. This is his fourth year teaching Python to seventh and eighth-grade students at Pine Crest School in Fort Lauderdale, Florida.\nhttps://www.teachingpython.fm/"
+  },
+  {
+    "objectID": "podcasts.html#the-real-python-podcast",
+    "href": "podcasts.html#the-real-python-podcast",
+    "title": "7  Podcasts",
+    "section": "7.6 The Real Python Podcast",
+    "text": "7.6 The Real Python Podcast\nChristopher Bailey\nA weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community.\nThe show covers a wide range of topics including Python programming best practices, career tips, and related software development topics.\nJoin us every Friday morning to hear what’s new in the world of Python programming and become a more effective Pythonista.\nhttps://realpython.com/podcasts/rpp/"
+  },
+  {
+    "objectID": "paid.html#pybites",
+    "href": "paid.html#pybites",
+    "title": "8  Paid Resources",
+    "section": "8.1 PyBites",
+    "text": "8.1 PyBites\nhttps://pybit.es/"
+  },
+  {
+    "objectID": "paid.html#python-morsels",
+    "href": "paid.html#python-morsels",
+    "title": "8  Paid Resources",
+    "section": "8.2 Python Morsels",
+    "text": "8.2 Python Morsels\n(Trey Hunner)[https://treyhunner.com/]\nPython Morsels will help you maintain a Python learning habit. With weekly mini screencasts you’ll re-discover Python topics you thought you already knew.\nEach screencast also includes a short article explaining the same material through text, so you can switch between reading articles and watching videos as you see fit.\nWhy pay for this when there’s a lot of great free Python videos on YouTube? There’s really one reason: you’re trading money for time.\nI guarantee Python Morsels will include:\n\nNo ads: you’re not the product, the screencasts are\nNo filler content: no ad revenue means no need for long videos\nMy own expertise: I’ll teach you what I know (but not what I don’t)\nLite: USD$100/year\nAll Access: USD $200/year\n\nhttps://www.pythonmorsels.com/"
+  },
+  {
+    "objectID": "paid.html#real-python-python-tutorials",
+    "href": "paid.html#real-python-python-tutorials",
+    "title": "8  Paid Resources",
+    "section": "8.3 Real Python: Python Tutorials",
+    "text": "8.3 Real Python: Python Tutorials\nReal Python\nLearn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.\n\nUS$19.99 / Month\nUS$16.67 / Month\n\nUS$199.99 billed yearly\n\n\nhttps://realpython.com/"
+  },
+  {
+    "objectID": "paid.html#talk-python-training",
+    "href": "paid.html#talk-python-training",
+    "title": "8  Paid Resources",
+    "section": "8.4 Talk Python Training",
+    "text": "8.4 Talk Python Training\nMichael Kennedy\nLearn online. Learn on-demand through high quality training videos. Our videos and additional resources are available 24/7 so you can learn what you need exactly when you need it.\nLifetime access. With our pay once, own it forever business model, you can rest assured that the courses you put time into become permanent resources for your career.\n\nCost Varied\nEverything Bundle\n\n221 total hours, $199 USD (own them all forever)\n\n\nhttps://training.talkpython.fm/courses/all"
+  },
+  {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",

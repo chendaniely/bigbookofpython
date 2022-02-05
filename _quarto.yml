@@ -13,6 +13,8 @@ book:
     - domain_specific.qmd
     - programming.qmd
     - web.qmd
+    - podcasts.qmd
+    - paid.qmd
     - references.qmd
 
 bibliography: references.bib

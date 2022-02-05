@@ -1,0 +1,59 @@
+# Podcasts
+
+## PyBites Podcast
+
+[Julian Sequeira](https://twitter.com/juliansequeira) &
+[Bob Belderbos](https://bobbelderbos.com/)
+
+The PyBites Podcast is a podcast about Python Development, Career and Mindset skills. Hosted by the Co-Founders of PyBites, Bob Belderbos and Julian Sequeira, this podcast is for anyone interested in Python and looking for tips, tricks and concepts related to Career and Mindset. For more information on PyBites and Python, visit us at https://pybit.es and hit us up on social media! 
+
+<https://www.pybitespodcast.com/>
+
+## Python Bytes
+
+[Michael Kennedy](https://twitter.com/mkennedy) &
+[Brian Okken](https://twitter.com/brianokken)
+
+Python Bytes is a weekly podcast hosted by Michael Kennedy and Brian Okken. Python Bytes podcast delivers headlines directly to your earbuds. If you want to stay up on the Python developer news but don't have time to scour reddit, twitter, and other news sources, just subscribe and you'll get the best picks delivered weekly.
+
+<https://pythonbytes.fm/>
+
+##  Test & Code in Python
+
+[Brian Okken](https://twitter.com/brianokken)
+
+Topics include automated testing, testing strategy, software engineering practices, packaging, Python, pytest, data science, TDD, continuous integration, and software methodologies.
+Also anything I think helps make the daily life of a software developer more fun and rewarding.
+
+## Talk Python to Me
+
+[Michael Kennedy](https://blog.michaelckennedy.net/)
+
+A podcast on Python and related technologies
+
+<https://talkpython.fm/>
+
+## Teaching Python
+
+[Kelly Paredes](https://twitter.com/kellypared) &
+[Sean Tibor](https://twitter.com/smtibor)
+
+A podcast by Kelly Paredes and Sean Tibor about their adventures teaching middle school computer science, problem-solving, handling failure, frustration, and victory through the lens of the Python programming language.
+
+Kelly Paredes has taught all over the world and specializes in curriculum design and development. She currently teaches sixth and seventh-grade computer science at Pine Crest School in Fort Lauderdale, Florida. This is her fourth year using Python.
+
+Sean Tibor has worked in marketing and technical management roles selling toothpaste and toothbrushes, designing chemical inventory and tv media databases, enrolling online nursing students, and founding a digital marketing agency. This is his fourth year teaching Python to seventh and eighth-grade students at Pine Crest School in Fort Lauderdale, Florida.
+
+<https://www.teachingpython.fm/>
+
+## The Real Python Podcast
+
+[Christopher Bailey](https://twitter.com/digiglean)
+
+A weekly Python podcast hosted by Christopher Bailey with interviews, coding tips, and conversation with guests from the Python community.
+
+The show covers a wide range of topics including Python programming best practices, career tips, and related software development topics.
+
+Join us every Friday morning to hear what’s new in the world of Python programming and become a more effective Pythonista.
+
+<https://realpython.com/podcasts/rpp/>
