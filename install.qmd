@@ -1,0 +1,26 @@
+# Installing Python
+
+## Hitchhiker's Guide to Properly Installing Python
+
+[Kenneth Reitz](https://kennethreitz.org/projects) &
+[Real Python](https://realpython.com/)
+
+There’s a good chance that you already have Python on your operating system.
+
+If so, you do not need to install or configure anything else to use Python. Having said that, I would strongly recommend that you install the tools and libraries described in the guides below before you start building Python applications for real-world use. In particular, you should always install Setuptools, Pip, and Virtualenv — they make it much easier for you to use other third-party Python libraries.
+
+<https://docs.python-guide.org/starting/installation/>
+
+## RStudio Minimum Viable Python
+
+[RStudio Solutions Engineering](https://www.tomasbeuzen.com/)
+
+Your workflow should also anticipate some of the following challenges:
+
+- You are going to work on multiple projects with varying lifespans and potentially conflicting dependencies.
+- The language, some of the Python packages you use, or the packages those packages depend on are going to change while you work.
+
+However, you are responsibile for when changes in the language or your dependencies make their way into your projects. Keeping track of which version of Python you're using is an important first step that will make it easier to share your projects with other people, switch between projects, and debug problems with your code.
+
+<https://solutions.rstudio.com/python/minimum-viable-python/installing-python/>
+

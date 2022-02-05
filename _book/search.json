@@ -124,5 +124,19 @@
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "install.html#hitchhikers-guide-to-properly-installing-python",
+    "href": "install.html#hitchhikers-guide-to-properly-installing-python",
+    "title": "1  Installing Python",
+    "section": "1.1 Hitchhiker’s Guide to Properly Installing Python",
+    "text": "1.1 Hitchhiker’s Guide to Properly Installing Python\nKenneth Reitz & Real Python\nThere’s a good chance that you already have Python on your operating system.\nIf so, you do not need to install or configure anything else to use Python. Having said that, I would strongly recommend that you install the tools and libraries described in the guides below before you start building Python applications for real-world use. In particular, you should always install Setuptools, Pip, and Virtualenv — they make it much easier for you to use other third-party Python libraries.\nhttps://docs.python-guide.org/starting/installation/"
+  },
+  {
+    "objectID": "install.html#rstudio-minimum-viable-python",
+    "href": "install.html#rstudio-minimum-viable-python",
+    "title": "1  Installing Python",
+    "section": "1.2 RStudio Minimum Viable Python",
+    "text": "1.2 RStudio Minimum Viable Python\nRStudio Solutions Engineering\nYour workflow should also anticipate some of the following challenges:\n\nYou are going to work on multiple projects with varying lifespans and potentially conflicting dependencies.\nThe language, some of the Python packages you use, or the packages those packages depend on are going to change while you work.\n\nHowever, you are responsibile for when changes in the language or your dependencies make their way into your projects. Keeping track of which version of Python you’re using is an important first step that will make it easier to share your projects with other people, switch between projects, and debug problems with your code.\nhttps://solutions.rstudio.com/python/minimum-viable-python/installing-python/"
   }
 ]
