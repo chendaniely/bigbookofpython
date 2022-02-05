@@ -35,25 +35,32 @@
     "text": "3.1 Elements of Data Science\nAllen Downey\nAn introduction to data science designed for people with no programming experience, this book presents a small, powerful subset of Python that allows you to do real work in data science as quickly as possible. It includes Jupyter notebooks where you can read the text, run the code, and work on exercises to practice what you learn.\nhttps://allendowney.github.io/ElementsOfDataScience/README.html"
   },
   {
+    "objectID": "data_science.html#geog-30323-data-analysis-visualization",
+    "href": "data_science.html#geog-30323-data-analysis-visualization",
+    "title": "3  Data Science",
+    "section": "3.2 GEOG 30323: Data Analysis & Visualization",
+    "text": "3.2 GEOG 30323: Data Analysis & Visualization\nDr. Kyle Walker at Texas Christian University\nThis is a course in exploratory data analysis with an emphasis on the Python programming language and PyData ecosystem. The course targets students from all disciplines with an interest in data analytics, but does not assume any prior experience with computer programming.\nCourse assignments can be viewed from the sidebar menu. To “launch” a assignment in Binder or Google Colab, click the rocket icon in the top left of the screen and choose your platform.\nhttps://walker-data.com/geog30323/"
+  },
+  {
     "objectID": "data_science.html#python-data-science-handbook",
     "href": "data_science.html#python-data-science-handbook",
     "title": "3  Data Science",
-    "section": "3.2 Python Data Science Handbook",
-    "text": "3.2 Python Data Science Handbook\nJake VanderPlas\nThe Python Data Science Handbook by Jake VanderPlas (O’Reilly Media, 2016). This is a comprehensive introduction to the most important data science tools in the Python world. Several examples used in the book are drawn from posts on this blog. The full text can be read online, and the content is also available as Jupyter notebooks on GitHub.\nhttps://jakevdp.github.io/PythonDataScienceHandbook/"
+    "section": "3.3 Python Data Science Handbook",
+    "text": "3.3 Python Data Science Handbook\nJake VanderPlas\nThe Python Data Science Handbook by Jake VanderPlas (O’Reilly Media, 2016). This is a comprehensive introduction to the most important data science tools in the Python world. Several examples used in the book are drawn from posts on this blog. The full text can be read online, and the content is also available as Jupyter notebooks on GitHub.\nhttps://jakevdp.github.io/PythonDataScienceHandbook/"
   },
   {
     "objectID": "data_science.html#think-bayes-2e-bayesian-statistics-in-python",
     "href": "data_science.html#think-bayes-2e-bayesian-statistics-in-python",
     "title": "3  Data Science",
-    "section": "3.3 Think Bayes 2e: Bayesian Statistics in Python",
-    "text": "3.3 Think Bayes 2e: Bayesian Statistics in Python\nAllen Downey\nAn introduction to Bayesian statistics using simple Python programs instead of complicated math.\nhttps://allendowney.github.io/ThinkBayes2/"
+    "section": "3.4 Think Bayes 2e: Bayesian Statistics in Python",
+    "text": "3.4 Think Bayes 2e: Bayesian Statistics in Python\nAllen Downey\nAn introduction to Bayesian statistics using simple Python programs instead of complicated math.\nhttps://allendowney.github.io/ThinkBayes2/"
   },
   {
     "objectID": "data_science.html#think-stats-2e-exploratory-data-analysis",
     "href": "data_science.html#think-stats-2e-exploratory-data-analysis",
     "title": "3  Data Science",
-    "section": "3.4 Think Stats, 2e: Exploratory Data Analysis",
-    "text": "3.4 Think Stats, 2e: Exploratory Data Analysis\nAllen Downey\nAn introduction to exploratory data analysis. Like the first edition, this book emphasizes simple computational tools for exploring real data. It includes several new topics, including regression, time series analysis, and survival analysis. It presents basic use of NumPy, SciPy, Pandas, and StatsModels.\nhttps://allendowney.github.io/ThinkBayes2/"
+    "section": "3.5 Think Stats, 2e: Exploratory Data Analysis",
+    "text": "3.5 Think Stats, 2e: Exploratory Data Analysis\nAllen Downey\nAn introduction to exploratory data analysis. Like the first edition, this book emphasizes simple computational tools for exploring real data. It includes several new topics, including regression, time series analysis, and survival analysis. It presents basic use of NumPy, SciPy, Pandas, and StatsModels.\nhttps://allendowney.github.io/ThinkBayes2/"
   },
   {
     "objectID": "domain_specific.html#astronomical-data-in-python",
@@ -98,25 +105,46 @@
     "text": "5.1 Data Structures and Information Retrieval in Python\nAllen Downey\nData Structures and Information Retrieval in Python, is an introduction to data structures organized around a motivating example: building a search engine.\nhttps://allendowney.github.io/DSIRP/"
   },
   {
+    "objectID": "programming.html#geeksforgeeks",
+    "href": "programming.html#geeksforgeeks",
+    "title": "5  Programming",
+    "section": "5.2 GeeksforGeeks",
+    "text": "5.2 GeeksforGeeks\nThis specially designed Python tutorial will help you learn Python Programming Language in most efficient way, with the topics from basics to advanced (like Web-scraping, Django, Deep-Learning, etc.) with examples.\nhttps://www.geeksforgeeks.org/python-programming-language/"
+  },
+  {
     "objectID": "programming.html#python-for-everybody",
     "href": "programming.html#python-for-everybody",
     "title": "5  Programming",
-    "section": "5.2 Python for Everybody",
-    "text": "5.2 Python for Everybody\nCharles Severance (Dr. Chuck)\nThis web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python. The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a computer science approach and the Informatics approach taken in this book is a greater focus on using Python to solve data analysis problems common in the world of Informatics.\nhttps://www.py4e.com/"
+    "section": "5.3 Python for Everybody",
+    "text": "5.3 Python for Everybody\nCharles Severance (Dr. Chuck)\nThis web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python. The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a computer science approach and the Informatics approach taken in this book is a greater focus on using Python to solve data analysis problems common in the world of Informatics.\nhttps://www.py4e.com/"
+  },
+  {
+    "objectID": "programming.html#python-notes-for-professionals",
+    "href": "programming.html#python-notes-for-professionals",
+    "title": "5  Programming",
+    "section": "5.4 Python Notes for Professionals",
+    "text": "5.4 Python Notes for Professionals\nhttps://goalkicker.com/PythonBook/\ngoalkicker\nThe Python® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified\nBook created for educational purposes and is not affiliated with Python® group(s), company(s) nor Stack Overflow. All trademarks belong to their respective company owners\n816 pages, published on June 2018"
   },
   {
     "objectID": "programming.html#the-python-tutorial",
     "href": "programming.html#the-python-tutorial",
     "title": "5  Programming",
-    "section": "5.3 The Python Tutorial",
-    "text": "5.3 The Python Tutorial\nPython Software Foundation\nThis tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library.\nhttps://docs.python.org/3/tutorial/"
+    "section": "5.5 The Python Tutorial",
+    "text": "5.5 The Python Tutorial\nPython Software Foundation\nThis tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library.\nhttps://docs.python.org/3/tutorial/"
   },
   {
     "objectID": "programming.html#think-python-how-to-think-like-a-computer-scientist",
     "href": "programming.html#think-python-how-to-think-like-a-computer-scientist",
     "title": "5  Programming",
-    "section": "5.4 Think Python: How to Think Like a Computer Scientist",
-    "text": "5.4 Think Python: How to Think Like a Computer Scientist\nAllen Downey\nThink Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.\nhttps://greenteapress.com/thinkpython2/html/index.html"
+    "section": "5.6 Think Python: How to Think Like a Computer Scientist",
+    "text": "5.6 Think Python: How to Think Like a Computer Scientist\nAllen Downey\nThink Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.\nhttps://greenteapress.com/thinkpython2/html/index.html"
+  },
+  {
+    "objectID": "programming.html#w3schools-python",
+    "href": "programming.html#w3schools-python",
+    "title": "5  Programming",
+    "section": "5.7 W3Schools Python",
+    "text": "5.7 W3Schools Python\nPython is a popular programming language. It was created by Guido van Rossum, and released in 1991.\nIt is used for:\n\nweb development (server-side),\nsoftware development,\nmathematics,\nsystem scripting.\n\nhttps://www.w3schools.com/python/default.asp"
   },
   {
     "objectID": "web.html#django-for-everybody",

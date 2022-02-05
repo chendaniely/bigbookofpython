@@ -8,6 +8,11 @@ Data Structures and Information Retrieval in Python, is an introduction to data 
 
 <https://allendowney.github.io/DSIRP/>
 
+## GeeksforGeeks
+
+This specially designed Python tutorial will help you learn Python Programming Language in most efficient way, with the topics from basics to advanced (like Web-scraping, Django, Deep-Learning, etc.) with examples.
+
+<https://www.geeksforgeeks.org/python-programming-language/>
 
 ## Python for Everybody
 
@@ -17,6 +22,18 @@ This web site is building a set of free materials, lectures, book and assignment
 The goal of this book is to provide an Informatics-oriented introduction to programming. The primary difference between a computer science approach and the Informatics approach taken in this book is a greater focus on using Python to solve data analysis problems common in the world of Informatics. 
 
 <https://www.py4e.com/>
+
+## Python Notes for Professionals
+
+<https://goalkicker.com/PythonBook/>
+
+goalkicker
+
+The Python® Notes for Professionals book is compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow. Text content is released under Creative Commons BY-SA. See credits at the end of this book whom contributed to the various chapters. Images may be copyright of their respective owners unless otherwise specified
+
+Book created for educational purposes and is not affiliated with Python® group(s), company(s) nor Stack Overflow. All trademarks belong to their respective company owners
+
+816 pages, published on June 2018
 
 
 ## The Python Tutorial
@@ -35,3 +52,17 @@ This tutorial does not attempt to be comprehensive and cover every single featur
 Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression. Larger pieces, like recursion and object-oriented programming are divided into a sequence of smaller steps and introduced over the course of several chapters.
 
 <https://greenteapress.com/thinkpython2/html/index.html>
+
+## W3Schools Python
+
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
+It is used for:
+
+- web development (server-side),
+- software development,
+- mathematics,
+- system scripting.
+
+
+<https://www.w3schools.com/python/default.asp>

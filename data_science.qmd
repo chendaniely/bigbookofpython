@@ -8,6 +8,15 @@ An introduction to data science designed for people with no programming experien
 
 <https://allendowney.github.io/ElementsOfDataScience/README.html>
 
+## GEOG 30323: Data Analysis & Visualization
+
+[Dr. Kyle Walker at Texas Christian University](https://addran.tcu.edu/view/kyle-walker)
+
+This is a course in exploratory data analysis with an emphasis on the Python programming language and PyData ecosystem. The course targets students from all disciplines with an interest in data analytics, but does not assume any prior experience with computer programming.
+
+Course assignments can be viewed from the sidebar menu. To “launch” a assignment in Binder or Google Colab, click the rocket icon in the top left of the screen and choose your platform.
+
+<https://walker-data.com/geog30323/>
 
 ## Python Data Science Handbook
 
